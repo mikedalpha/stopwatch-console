@@ -1,0 +1,7 @@
+C:\Users\angel\source\repos\StopWatchDesign\StopWatchDesign\bin\Debug\StopWatchDesign.exe.config
+C:\Users\angel\source\repos\StopWatchDesign\StopWatchDesign\bin\Debug\StopWatchDesign.exe
+C:\Users\angel\source\repos\StopWatchDesign\StopWatchDesign\bin\Debug\StopWatchDesign.pdb
+C:\Users\angel\source\repos\StopWatchDesign\StopWatchDesign\obj\Debug\StopWatchDesign.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\StopWatchDesign\StopWatchDesign\obj\Debug\StopWatchDesign.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\StopWatchDesign\StopWatchDesign\obj\Debug\StopWatchDesign.exe
+C:\Users\angel\source\repos\StopWatchDesign\StopWatchDesign\obj\Debug\StopWatchDesign.pdb
